@@ -8,23 +8,23 @@
 
 > ## Modules Included:
 
->             tkinter 
->             pygame
->             threading
->             mutagen
->             keyboard
->             ttkthemes
->             time
->             os
+>>             tkinter 
+>>             pygame
+>>             threading
+>>             mutagen
+>>             keyboard
+>>             ttkthemes
+>>             time
+>>             os
 
 > ## Module Installation Commands: 
 
->             pip install pygame
->             pip install mutagen
->             pip install keyboard
->             pip install ttkthemes
+>>             pip install pygame
+>>             pip install mutagen
+>>             pip install keyboard
+>>             pip install ttkthemes
 
-> ## Button Images from [FlatIcon](flaticon.com)
+> ## Button Images from [FlatIcon](https://www.flaticon.com/)
 
 > ## Screenshot of the Application 
 
